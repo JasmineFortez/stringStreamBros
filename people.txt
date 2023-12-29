@@ -1,0 +1,7 @@
+Mei 45 curator
+Mary 59 entrepreneur
+David 99 retired
+Ali 35 chef
+Jose 24 manager
+Adam 27 lecturer
+Jane 38 director
